@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Media‑Werkzeug
+GenericName=Media Downloader & Konverter
+Comment=Videos herunterladen, Audio extrahieren und Medien konvertieren
+Exec=python3 /usr/bin/media-werkzeug
+Icon=/usr/share/pixmaps/media-werkzeug.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Utility;GTK;
+StartupNotify=true
+Keywords=Video;Audio;Download;Konvertieren;yt-dlp;ffmpeg;Media;
+
